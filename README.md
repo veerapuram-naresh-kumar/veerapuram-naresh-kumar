@@ -38,4 +38,4 @@ B.Tech Computer Science Student | Software Developer | Problem Solver
 
 ### 📫 Connect With Me
 
-[LinkedIn](Y[OUR_LINKEDIN_URL](https://www.linkedin.com/in/veerapuram-naresh-kumar-92b717299 )
+[LinkedIn](https://www.linkedin.com/in/veerapuram-naresh-kumar-92b717299)
