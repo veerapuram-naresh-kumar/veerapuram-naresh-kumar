@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Naresh Kumar</h1>
 
-<!--
-**veerapuram-naresh-kumar/veerapuram-naresh-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+B.Tech Computer Science Student | Software Developer | Problem Solver
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🎓 B.Tech Computer Science student
+- 💻 Interested in Software Development and Full-Stack Development
+- 🌱 Currently improving my DSA, DBMS and System Design skills
+- 🔨 Building projects using MERN Stack and AI
+- 💡 Passionate about problem solving and learning new technologies
+
+### 🛠️ Tech Stack
+
+- **Languages:** Java, Python, JavaScript, SQL
+- **Frontend:** React.js, HTML, CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, MySQL
+- **Tools:** Git, GitHub, VS Code
+
+### 📌 Featured Projects
+
+- **SkillForge** – AI-powered career guidance platform
+- **Blog Application** – Full-stack blogging platform
+- **Netra AI** – AI-based project
+
+### 📊 Coding Profiles
+
+- LeetCode
+- CodeChef
+- Codeforces
+
+---
+
+### 📫 Connect With Me
+
+[LinkedIn](Y[OUR_LINKEDIN_URL](https://www.linkedin.com/in/veerapuram-naresh-kumar-92b717299 )
