@@ -17,7 +17,7 @@
 ## 📫 How to reach me
 
 - 📧 Email: **nareshveerapuram07@gmail.com**
-- 💼 LinkedIn: [Naresh Kumar]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/veerapuram-naresh-kumar-92b717299 ))
+- 💼 LinkedIn: [Naresh Kumar](https://www.linkedin.com/in/veerapuram-naresh-kumar-92b717299 )
 - 📄 Resume: [View Resume](YOUR_RESUME_URL)
 
 ---
