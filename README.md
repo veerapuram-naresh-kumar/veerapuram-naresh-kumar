@@ -30,9 +30,9 @@ B.Tech Computer Science Student | Software Developer | Problem Solver
 
 ### 📊 Coding Profiles
 
-- LeetCode
-- CodeChef
-- Codeforces
+- Codeforces https://codeforces.com/profile/nareshveerapuram07
+- LeetCode https://leetcode.com/u/NARESHKUMAR07/c
+- CodeChef https://www.codechef.com/users/nareshveerapur
 
 ---
 
